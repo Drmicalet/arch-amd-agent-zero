@@ -31,6 +31,9 @@ docker pull ghcr.io/drmicalet/arch-amd-agent-zero:latest
 
 GPL-3.0
 
-## Autor
+## Autors
+Agent Zero https://github.com/agent0ai/agent-zero
+
+Image
 
 **Drmicalet** - [GitHub](https://github.com/Drmicalet)
